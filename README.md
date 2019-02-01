@@ -2,10 +2,9 @@
 
 'Document' is the word documentation file
 
-'CreatingTable' file is for creating Tables using Toad
-'DDL.sql' file is DDLScript file for creating Tables using Toad
+'CreatingTable' file is for creating Tables using Toad and 'DDL.sql' file is DDLScript file for creating Tables using Toad
 
-'SplitLoginandGenderPackage' is the SSIS package file for splitting gender and login into domain and userID
+'SplitLoginandGenderPackage' is the SSIS package file for splitting login into domain and userID and then splitting records according to Gender
 
 'LookupPackage' is the SSIS package for creating lookup table and validate gender
 
